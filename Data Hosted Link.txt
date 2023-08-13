@@ -1,0 +1,1 @@
+https://app.roboflow.com/szabistfyp-e16ki/dst-2012img/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
